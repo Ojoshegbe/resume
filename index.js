@@ -22,5 +22,3 @@ function Hide(){
     ul.style.right = '-200px';
 }
 
-
-

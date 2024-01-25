@@ -180,7 +180,7 @@ nav ul li a:hover::after{
 }
 
 .services-list div h2{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 500;
     margin-bottom: 15px;
 }
@@ -197,6 +197,8 @@ nav ul li a:hover::after{
     background: #ff004f;
     transform: translateY(-10px);
 }
+
+
 
 /* ------------portfolio-------- */
 #portfolio{
@@ -450,5 +452,9 @@ nav .fa{
 
         .copyright{
             font-size: 12px;
+        }
+
+        .services-list div h2{
+            font-size: 30px;
         }
 }
