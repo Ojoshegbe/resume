@@ -135,7 +135,13 @@ nav ul li a:hover::after{
     bottom: -8px;
     transition: 0.7s;
 }
-
+.flexer{
+    display: flex;
+    justify-content: flex-start;
+    align-tracks: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
 .tab-links.active-link::after{
     width: 50%;
 }
